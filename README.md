@@ -1,5 +1,5 @@
-# Pattern - Auth
+# Pattern - Staggered queries
 
 ## Overview
 
-This example illustrates a method to use react-query to cache multiple calls for token retrieval.
+This examples demonstrates how rq preserves order of queries
